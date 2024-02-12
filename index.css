@@ -1,0 +1,65 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+body{
+    background-image: url(Img/Homepage.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 80px;
+    padding-top: 50px;
+}
+.one{
+    padding-left: 100px;
+    padding-top: 70px;
+    background-color: #ffffff61;
+    margin-left: 20px;
+    margin-right: 850px;
+    margin-top: 20px;
+    padding-bottom: 90px;
+}
+.input1{
+    padding-right: 15px;
+    padding-left: 5px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.container{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.formbutton{
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #6dad1e;
+    cursor: pointer;
+}
+.button{
+    padding-left: 50px;
+    padding-right: 48px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 1px;
+    background-color: #ffffff61;
+    border-color: #6dad1e;
+    color: #6dad1e;
+    cursor: pointer;
+}
+.last{
+    display: flex;
+    gap: 0.5rem;
+}
+.pap{
+    padding-left: 8px;
+}
